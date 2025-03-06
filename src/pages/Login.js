@@ -9,7 +9,7 @@ const Login=({setIsLoggedIn})=>{
             title="Welcome Back"
             desc1="Build Skills for today, tomorrow and beyond."
             desc2="Education to future-proof your career." 
-            image={LoginImg}
+            image={LoginImg} 
             formType="login"
             setIsLoggedIn={setIsLoggedIn}/>
           
