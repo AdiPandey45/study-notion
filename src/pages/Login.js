@@ -1,6 +1,6 @@
 
 import Template from '../components/Template';
-import LoginImg from '../assets/login.png';
+import LoginImg from '../assets/login.png'; 
 
 const Login=({setIsLoggedIn})=>{
     return(
