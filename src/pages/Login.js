@@ -2,7 +2,7 @@
 import Template from '../components/Template';
 import LoginImg from '../assets/login.png'; 
 
-const Login=({setIsLoggedIn})=>{
+const Login=({setIsLoggedIn})=>{ 
     return( 
         <div> 
             <Template  
