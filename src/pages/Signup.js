@@ -2,7 +2,7 @@ import Template from '../components/Template';
 import Signimg from '../assets/signup.png';
 
  const SignUp = ({setIsLoggedIn}) => {
-  return (
+  return ( 
     <div>
           <Template
             title="Join the millions learning to code with StudyNotion for free"
