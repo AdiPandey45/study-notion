@@ -8,7 +8,7 @@ const Login=({setIsLoggedIn})=>{
             <Template
             title="Welcome Back"
             desc1="Build Skills for today, tomorrow and beyond."
-            desc2="Education to future-proof your career."
+            desc2="Education to future-proof your career." 
             image={LoginImg}
             formType="login"
             setIsLoggedIn={setIsLoggedIn}/>
