@@ -1,6 +1,6 @@
 import Template from '../components/Template';
 import Signimg from '../assets/signup.png';
-
+ 
  const SignUp = ({setIsLoggedIn}) => {
   return ( 
     <div>
