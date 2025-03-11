@@ -9,7 +9,7 @@ import Signimg from '../assets/signup.png';
             desc1="Build Skills for today, tomorrow and beyond." 
             desc2="Education to future-proof your career." 
             image={Signimg}
-            formType="signup" 
+            formType="signup"  
             setIsLoggedIn={setIsLoggedIn}/>
     </div>
   )
