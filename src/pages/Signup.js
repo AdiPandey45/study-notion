@@ -8,7 +8,7 @@ import Signimg from '../assets/signup.png';
             title="Join the millions learning to code with StudyNotion for free"    
             desc1="Build Skills for today, tomorrow and beyond." 
             desc2="Education to future-proof your career."  
-            image={Signimg}
+            image={Signimg} 
             formType="signup"  
             setIsLoggedIn={setIsLoggedIn}/>
     </div>
