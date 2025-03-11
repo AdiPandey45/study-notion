@@ -14,5 +14,5 @@ import Signimg from '../assets/signup.png';
     </div>
   )
 }
-
+ 
 export default SignUp;
