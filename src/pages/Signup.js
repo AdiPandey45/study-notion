@@ -3,7 +3,7 @@ import Signimg from '../assets/signup.png';
  
  const SignUp = ({setIsLoggedIn}) => {
   return ( 
-    <div>
+    <div> 
           <Template     
             title="Join the millions learning to code with StudyNotion for free"   
             desc1="Build Skills for today, tomorrow and beyond." 
